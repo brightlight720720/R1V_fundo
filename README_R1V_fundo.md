@@ -67,7 +67,7 @@ R1V_fundo/R1-V/src/run_grpo_vllm_qwen25vl.sh
 - **Fine-Tuned For:** Fundus Image Reasoning and Diabetic Retinopathy Detection  
 - **Training Strategy:**  
      GRPO Reinforcement Fine-Tuning  
-- **Datasets:** EyePACS, Messidor-2, FundusDR, and internal curated datasets.  
+- **Datasets:** EyePACS, FundusDR, and internal curated datasets.  
 
 ---
 
